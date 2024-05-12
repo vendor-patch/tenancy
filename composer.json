@@ -4,7 +4,6 @@
     "keywords": ["laravel", "multi-tenant", "saas", "tenancy", "aws", "gce"],
     "license": "MIT",
     "require": {
-
     },
     "require-dev": {
         "laravel/framework": "*",
